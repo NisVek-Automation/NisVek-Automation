@@ -1,5 +1,5 @@
-### Hi there, I am Nisha Vekariya 👋
-#### I am a QA and Test Automation Engineer
+## Nisha Vekariya 👋
+### QA and Test Automation Engineer
 
 
 <!--
