@@ -1,11 +1,6 @@
-### Hi there 👋, I am Nisha Vekariya
-#### I am a QA and Test Automation Engineer
-![I am a QA and Test Automation Engineer](https://github.com/NisVek-Automation/NisVek-Automation/blob/main/LinkedIn-background.gif)
-
 ## Nisha Vekariya 👋
 ### QA and Test Automation Engineer
-(https://github.com/NisVek-Automation/NisVek-Automation/blob/main/LinkedIn-background.gif)
-Here are some ideas to get you started:
+![I am a QA and Test Automation Engineer](https://github.com/NisVek-Automation/NisVek-Automation/blob/main/LinkedIn-background.gif)
 
 ---
 
@@ -18,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to travel different placess and learn new culture.
 
 ---
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NisVek-Automation)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nisha-vekariya//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](nisha.vekariya@gmail.com)  
