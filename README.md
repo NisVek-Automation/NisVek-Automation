@@ -10,7 +10,7 @@ I'm Nisha from India, and I deliver the quality of software. I really enjoy lear
 [![Linkedin Badge](https://img.shields.io/badge/-Nisha.Vekariya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-vekariya/) [![Mail Badge](https://img.shields.io/badge/-Nisha.Vekariya-c0392b?style=flat&labelColor=c0395b&logo=gmail&logoColor=white)](mailto:nisha.vekariya@gmail.com)
 
 - 🔭 I’m currently working at @Servicemax
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used language - `Java`
 - 🤔 I’m looking for help with Outstanding design pattern ideas.
 - 😄 Pronouns: Nisha.
 - ⚡ Fun fact: I enjoy cooking with new innovative receipies and travelling to explore new cultures.
