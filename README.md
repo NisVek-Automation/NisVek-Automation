@@ -1,6 +1,6 @@
 # Nisha Vekariya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 ## QA and Test Automation Engineer
-![QA and Test Automation Engineer](https://github.com/NisVek-Automation/NisVek-Automation/blob/main/NishaGit_BackGround.gif)
+![QA and Test Automation Engineer](https://github.com/NisVek-Automation/NisVek-Automation/blob/main/Git_BackGround.gif)
 
 I'm Nisha from India, and I deliver the quality of software. I really enjoy learning new automation tools, technologies and frameworks like Selenium and Rest Assured.
 
