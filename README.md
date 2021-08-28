@@ -1,3 +1,7 @@
+### Hi there 👋, I am Nisha Vekariya
+#### I am a QA and Test Automation Engineer
+![I am a QA and Test Automation Engineer](https://github.com/NisVek-Automation/NisVek-Automation/blob/main/LinkedIn-background.gif)
+
 ## Nisha Vekariya 👋
 ### QA and Test Automation Engineer
 (https://github.com/NisVek-Automation/NisVek-Automation/blob/main/LinkedIn-background.gif)
