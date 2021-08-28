@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Nisha Vekariya 👋
+#### I am a QA and Test Automation Engineer
+
 
 <!--
 **NisVek-Automation/NisVek-Automation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
