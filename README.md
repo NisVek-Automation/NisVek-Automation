@@ -12,7 +12,7 @@ I'm Nisha from India, and I deliver the quality of software. I really enjoy lear
 - 🔭 I’m currently working at @Servicemax
 - :computer: Most used language - `Java`
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I enjoy cooking with new innovative receipies and travelling to explore new cultures.
+- ⚡ Fun fact: I enjoy cooking with new innovative receipies and travelling to explore new cultures and diversity.
 
 
 ### Skills and Experience
