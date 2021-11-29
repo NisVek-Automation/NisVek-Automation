@@ -2,7 +2,7 @@
 ## QA and Test Automation Engineer
 ![QA and Test Automation Engineer](./readmeResources/Git_BackGround.gif)
 
-I'm Nisha from India, and I deliver the quality of software. Love finding the Corona(problem) and corresponding solutions in the system quickly and accurately. I am a creative person who enjoys being challenged and challenging environments, a self-motivated, quick learner, strong interpersonal skills, and work supportively at all levels. Love interacting with a wide range of people from diverse and multicultural backgrounds. Always ready for Team building activities.
+I'm Nisha from India, and I deliver the quality of software. Love finding the Corona(problem) and corresponding solutions in the system quickly and accurately. As a creative person, enjoy being challenged and challenging environments, self-motivated, quick learner, strong interpersonal skills, and work supportively at all levels. Love interacting with a wide range of people from diverse and multicultural backgrounds. Always ready for Team building activities.
 
 
 :mailbox: Reach me out!
