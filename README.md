@@ -10,8 +10,8 @@ I'm Nisha from India, and I deliver the quality of software. I really enjoy lear
 [![Linkedin Badge](https://img.shields.io/badge/-Nisha.Vekariya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-vekariya/) [![Mail Badge](https://img.shields.io/badge/-Nisha.Vekariya-c0392b?style=flat&labelColor=c0395b&logo=gmail&logoColor=white)](mailto:nisha.vekariya@gmail.com)
 
 - 🔭 I’m currently working at @Servicemax
-- 👩‍💻 Current Activities - Automation framework and script development, mentor/guide other team members with respect to technology and process, and deliver QA and Automation artifacts.
 - 😄 Pronouns: she/her.
+- 👩‍💻 Current Activities - Automation framework and script development, mentor/guide other team members with respect to technology and process, and deliver QA and Automation artifacts.
 - ⚡ Fun fact: I enjoy cooking with new innovative recipies and travelling with friends, family and co-workers to explore new cultures and diversity. But studying new
 software automation tools are also a part of my free time.
 
