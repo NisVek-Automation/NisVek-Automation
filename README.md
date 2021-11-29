@@ -2,7 +2,7 @@
 ## QA and Test Automation Engineer
 ![QA and Test Automation Engineer](./readmeResources/Git_BackGround.gif)
 
-I'm Nisha from India, and I deliver the quality of software. I really enjoy learning new automation tools, technologies and frameworks like Selenium and Rest Assured.
+I'm Nisha from India, and I deliver the quality of software. Love finding the Corona(problem) and corresponding solutions in the system quickly and accurately. I am a creative person who enjoys being challenged and challenging environments, a self-motivated, quick learner, strong interpersonal skills, and work supportively at all levels. Love interacting with a wide range of people from diverse and multicultural backgrounds. Always ready for Team building activities.
 
 
 :mailbox: Reach me out!
@@ -11,7 +11,7 @@ I'm Nisha from India, and I deliver the quality of software. I really enjoy lear
 
 - 🔭 I’m currently working at @Servicemax
 - 😄 Pronouns: she/her.
-- 👩‍💻 Current Activities - Automation framework and script development, mentor/guide other team members with respect to technology and process, and deliver QA and Automation artifacts.
+- 👩‍💻 Current Activities - Automation framework and script development, mentor/guide other team members with respect to technologies and process, and deliver QA and Automation artifacts.
 - ⚡ Fun fact: I enjoy cooking with new innovative recipies and travelling with friends, family and co-workers to explore new cultures and diversity. But studying new
 software automation tools are also a part of my free time.
 
