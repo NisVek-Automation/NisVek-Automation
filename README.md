@@ -33,8 +33,6 @@ I'm Nisha from India, and I deliver the quality of software. Love finding the Co
 <br>
 [![Jira Badge](https://img.shields.io/badge/-Jira-blue?style=flat-square&labelColor=black&logo=Jira&logoColor=white)](#)
 [![Confluence Badge](https://img.shields.io/badge/-Confluence-9cf?style=flat-square&labelColor=black&logo=Confluence&logoColor=white)](#)
-[![Zephyr Badge](https://img.shields.io/badge/-Zephyr-yellowgreen?style=flat-square&labelColor=black&logo=Zephyr&logoColor=white)](#)
+[![Zephyr Badge](https://img.shields.io/badge/-Zephyr-yellowgreen?style=flat-square&labelColor=yellowgreen&logo=Zyphyr&logoColor=white)](#)
 
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=NisVek-Automation&label=Profile%20views&color=0e75b6&style=flat" alt="NisVek-Automation" /> </p>
 
