@@ -17,12 +17,24 @@ I'm Nisha from India, and I deliver the quality of software. Love finding the Co
 
 ### Skills and Experience
 
-[![Selenium Badge](https://img.shields.io/badge/-Selenium-61DBFB?style=for-the-badge&labelColor=black&logo=selenium&logoColor=61DBFB)](#) 
-[![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) 
-[![Testng Badge](https://img.shields.io/badge/-Testng-007acc?style=for-the-badge&labelColor=black&logo=Testin&logoColor=007acc)](#) 
-[![Bdd Badge](https://img.shields.io/badge/-BDD-3C873A?style=for-the-badge&labelColor=black&logo=Cucumber&logoColor=3C873A)](#) 
-[![RestAssured Badge](https://img.shields.io/badge/-Rest_Assured-orange?style=for-the-badge&labelColor=black&logo=restassured&logoColor=61DBFB)](#)
-[![Katalonstudio Badge](https://img.shields.io/badge/-Katalon_Studio-blue?style=for-the-badge&labelColor=black&logo=Katalonstudio&logoColor=e535ab)](#)
-  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=NisVek-Automation&label=Profile%20views&color=0e75b6&style=flat" alt="NisVek-Automation" /> </p>
+[![Selenium Badge](https://img.shields.io/badge/-Selenium-0e76a8?style=flat-square&labelColor=black&logo=selenium&logoColor=white)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-007acc?style=flat-square&labelColor=black&logo=java&logoColor=white)](#)
+[![Testng Badge](https://img.shields.io/badge/-Testng-007acc?style=flat-square&labelColor=black&logo=Testin&logoColor=white)](#)
+[![Appium Badge](https://img.shields.io/badge/-Appium-61DBFB?style=flat-square&labelColor=black&logo=Appian&logoColor=white)](#)
+[![RestAssured Badge](https://img.shields.io/badge/-Rest_Assured-orange?style=flat-square&labelColor=black&logo=restassured&logoColor=white)](#)
+[![Postman Badge](https://img.shields.io/badge/-Postman-orange?style=flat-square&labelColor=black&logo=restassured&logoColor=white)](#)
+[![Bdd Badge](https://img.shields.io/badge/-BDD-3C873A?style=flat-square&labelColor=black&logo=Cucumber&logoColor=white)](#) 
+[![Katalonstudio Badge](https://img.shields.io/badge/-Katalon_Studio-blue?style=flat-square&labelColor=black&logo=Katalonstudio&logoColor=white)](#)
+<br>
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-lightgray?style=flat-square&labelColor=black&logo=GitHub&logoColor=white)](#)
+[![Jenkins Badge](https://img.shields.io/badge/-Jenkins-green?style=flat-square&labelColor=black&logo=Jenkins&logoColor=white)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&labelColor=black&logo=Docker&logoColor=white)](#)
+[![Maven Badge](https://img.shields.io/badge/-Maven-red?style=flat-square&labelColor=black&logo=apachemaven&logoColor=white)](#)
+<br>
+[![Jira Badge](https://img.shields.io/badge/-Jira-blue?style=flat-square&labelColor=black&logo=Jira&logoColor=white)](#)
+[![Confluence Badge](https://img.shields.io/badge/-Confluence-9cf?style=flat-square&labelColor=black&logo=Confluence&logoColor=white)](#)
+[![Zephyr Badge](https://img.shields.io/badge/-Zephyr-yellowgreen?style=flat-square&labelColor=black&logo=Zephyr&logoColor=white)](#)
+
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=NisVek-Automation&label=Profile%20views&color=0e75b6&style=flat" alt="NisVek-Automation" /> </p>
 
