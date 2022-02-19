@@ -24,4 +24,5 @@ I'm Nisha from India, and I deliver the quality of software. Love finding the Co
 [![RestAssured Badge](https://img.shields.io/badge/-Rest_Assured-orange?style=for-the-badge&labelColor=black&logo=restassured&logoColor=61DBFB)](#)
 [![Katalonstudio Badge](https://img.shields.io/badge/-Katalon_Studio-blue?style=for-the-badge&labelColor=black&logo=Katalonstudio&logoColor=e535ab)](#)
   
-  
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=NisVek-Automation&label=Profile%20views&color=0e75b6&style=flat" alt="NisVek-Automation" /> </p>
+
