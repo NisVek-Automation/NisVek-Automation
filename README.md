@@ -17,14 +17,14 @@ I'm Nisha from India, and I deliver the quality of software. Love finding the Co
 
 ### Skills and Experience
 
-[![Selenium Badge](https://img.shields.io/badge/-Selenium-0e76a8?style=flat-square&labelColor=black&logo=selenium&logoColor=white)](#)
-[![Java Badge](https://img.shields.io/badge/-Java-007acc?style=flat-square&labelColor=black&logo=java&logoColor=white)](#)
-[![Testng Badge](https://img.shields.io/badge/-Testng-007acc?style=flat-square&labelColor=black&logo=Testin&logoColor=white)](#)
+[![Selenium Badge](https://img.shields.io/badge/-Selenium-brightgreen?style=flat-square&labelColor=black&logo=selenium&logoColor=white)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-0e76a8?style=flat-square&labelColor=black&logo=java&logoColor=white)](#)
+[![Testng Badge](https://img.shields.io/badge/-Testng-critical?style=flat-square&labelColor=black&logo=Testin&logoColor=white)](#)
 [![Appium Badge](https://img.shields.io/badge/-Appium-61DBFB?style=flat-square&labelColor=black&logo=Appian&logoColor=white)](#)
-[![RestAssured Badge](https://img.shields.io/badge/-Rest_Assured-orange?style=flat-square&labelColor=black&logo=restassured&logoColor=white)](#)
-[![Postman Badge](https://img.shields.io/badge/-Postman-orange?style=flat-square&labelColor=black&logo=restassured&logoColor=white)](#)
+[![RestAssured Badge](https://img.shields.io/badge/-Rest_Assured-scuccess?style=flat-square&labelColor=scuccess&logo=restassured&logoColor=white)](#)
+[![Postman Badge](https://img.shields.io/badge/-Postman-orange?style=flat-square&labelColor=black&logo=Postman&logoColor=white)](#)
 [![Bdd Badge](https://img.shields.io/badge/-BDD-3C873A?style=flat-square&labelColor=black&logo=Cucumber&logoColor=white)](#) 
-[![Katalonstudio Badge](https://img.shields.io/badge/-Katalon_Studio-blue?style=flat-square&labelColor=black&logo=Katalonstudio&logoColor=white)](#)
+[![Katalonstudio Badge](https://img.shields.io/badge/-Katalon_Studio-blue?style=flat-square&labelColor=blue&logoColor=white)](#)
 <br>
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-lightgray?style=flat-square&labelColor=black&logo=GitHub&logoColor=white)](#)
 [![Jenkins Badge](https://img.shields.io/badge/-Jenkins-green?style=flat-square&labelColor=black&logo=Jenkins&logoColor=white)](#)
