@@ -2,16 +2,19 @@
 ## QA and Test Automation Engineer
 ![QA and Test Automation Engineer](./readmeResources/Git_BackGround.gif)
 
-I'm Nisha from India, and I deliver the quality of software. Love finding the Corona(problem) and corresponding solutions in the system quickly and accurately. As a creative person, enjoy being challenged and challenging environments, self-motivated, quick learner, strong interpersonal skills, and work supportively at all levels. Love interacting with a wide range of people from diverse and multicultural backgrounds. Always ready for Team building activities.
+I'm Nisha from India, and I deliver the quality of software. Love finding the Corona(problem) and corresponding solutions in the system quickly and accurately. As a creative individual, enjoy being challenged and challenging environments, self-motivated, quick learner, strong interpersonal skills, and work supportively at all levels. I thoroughly enjoy engaging with people from diverse cultural backgrounds and am always enthusiastic about team-building activities.
+
+![Uploading image.png…]()
+
 
 
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nisha.Vekariya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-vekariya/) [![Mail Badge](https://img.shields.io/badge/-Nisha.Vekariya-c0392b?style=flat&labelColor=c0395b&logo=gmail&logoColor=white)](mailto:nisha.vekariya@gmail.com)
 
-- 🔭 I’m currently working at @Servicemax
+- 🔭 I worked at IBM, Cisco, Adobe, Servicemax and TrusArc
 - 😄 Pronouns: she/her.
-- 👩‍💻 Current Activities - Learn new automation technology. Mentor/guide other team members with respect to technologies and process, and deliver QA and Automation artifacts.
+- 👩‍💻 Current Activities - Learn new automation technology. Mentor/guide other team members with respect to technologies and processes, and deliver QA and Automation artifacts.
 - ⚡ Fun fact: I enjoy cooking with new innovative recipies and travelling with friends, family and co-workers to explore new cultures and diversity.
 
 
