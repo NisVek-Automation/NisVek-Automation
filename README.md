@@ -12,7 +12,7 @@ I'm Nisha from India, and I deliver the quality of software. Love finding the Co
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nisha.Vekariya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-vekariya/) [![Mail Badge](https://img.shields.io/badge/-Nisha.Vekariya-c0392b?style=flat&labelColor=c0395b&logo=gmail&logoColor=white)](mailto:nisha.vekariya@gmail.com)
 
-- 🔭 I worked at IBM, Cisco, Adobe, Servicemax and TrusArc
+- 🔭 I worked for IBM, Cisco, Adobe, Servicemax and TrusArc
 - 😄 Pronouns: she/her.
 - 👩‍💻 Current Activities - Learn new automation technology. Mentor/guide other team members with respect to technologies and processes, and deliver QA and Automation artifacts.
 - ⚡ Fun fact: I enjoy cooking with new innovative recipies and travelling with friends, family and co-workers to explore new cultures and diversity.
