@@ -15,6 +15,7 @@ I'm Nisha from India, and I deliver the quality of software. Love finding the Co
 - 🔭 I worked for IBM, Cisco, Adobe, Servicemax and TrusArc
 - 😄 Pronouns: she/her.
 - 👩‍💻 Current Activities - Learn new automation technology. Mentor/guide other team members with respect to technologies and processes, and deliver QA and Automation artifacts.
+- 💬 Ask me about - Selenium, Java, TestNG, RestAssured, BDD, Cucumber, Git, Jenkins, and many more on the way.
 - ⚡ Fun fact: I enjoy cooking with new innovative recipies and travelling with friends, family and co-workers to explore new cultures and diversity.
 
 
